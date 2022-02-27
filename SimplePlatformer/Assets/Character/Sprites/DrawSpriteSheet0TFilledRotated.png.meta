@@ -1,0 +1,3588 @@
+fileFormatVersion: 2
+guid: f9ecca694d4e40141bd4a15d695a60bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1066179587072935889
+    second: DrawSpriteSheet0TFilledRotated_0
+  - first:
+      213: 1890561407178196677
+    second: DrawSpriteSheet0TFilledRotated_1
+  - first:
+      213: 8672635869092714785
+    second: DrawSpriteSheet0TFilledRotated_2
+  - first:
+      213: -852501510172752641
+    second: DrawSpriteSheet0TFilledRotated_3
+  - first:
+      213: -3476615904275934274
+    second: DrawSpriteSheet0TFilledRotated_4
+  - first:
+      213: 8184010424942504379
+    second: DrawSpriteSheet0TFilledRotated_5
+  - first:
+      213: -6960503444883301174
+    second: DrawSpriteSheet0TFilledRotated_6
+  - first:
+      213: 3114561956425121619
+    second: DrawSpriteSheet0TFilledRotated_7
+  - first:
+      213: -8070287196762963142
+    second: DrawSpriteSheet0TFilledRotated_11
+  - first:
+      213: -2818377591755029627
+    second: DrawSpriteSheet0TFilledRotated_12
+  - first:
+      213: 6345283195745149349
+    second: DrawSpriteSheet0TFilledRotated_13
+  - first:
+      213: 4459283067394003240
+    second: DrawSpriteSheet0TFilledRotated_14
+  - first:
+      213: 2908892106005464276
+    second: DrawSpriteSheet0TFilledRotated_17
+  - first:
+      213: 7455235086373184296
+    second: DrawSpriteSheet0TFilledRotated_18
+  - first:
+      213: 9021559288764442272
+    second: DrawSpriteSheet0TFilledRotated_19
+  - first:
+      213: -8286009293976723208
+    second: DrawSpriteSheet0TFilledRotated_20
+  - first:
+      213: 3310674067333675325
+    second: DrawSpriteSheet0TFilledRotated_21
+  - first:
+      213: -445166614309354346
+    second: DrawSpriteSheet0TFilledRotated_22
+  - first:
+      213: -4330499979095878614
+    second: DrawSpriteSheet0TFilledRotated_23
+  - first:
+      213: -1753892704210224885
+    second: DrawSpriteSheet0TFilledRotated_24
+  - first:
+      213: -5533133036205177002
+    second: DrawSpriteSheet0TFilledRotated_25
+  - first:
+      213: -2689615871889391558
+    second: DrawSpriteSheet0TFilledRotated_26
+  - first:
+      213: -8631104161288456624
+    second: DrawSpriteSheet0TFilledRotated_27
+  - first:
+      213: 2832828594848304791
+    second: DrawSpriteSheet0TFilledRotated_28
+  - first:
+      213: -23021129391448178
+    second: DrawSpriteSheet0TFilledRotated_29
+  - first:
+      213: 7073938866215680184
+    second: DrawSpriteSheet0TFilledRotated_30
+  - first:
+      213: 7028538390252338222
+    second: DrawSpriteSheet0TFilledRotated_31
+  - first:
+      213: 305090025903718170
+    second: DrawSpriteSheet0TFilledRotated_32
+  - first:
+      213: 8753846066121101621
+    second: DrawSpriteSheet0TFilledRotated_33
+  - first:
+      213: 1497605121821187530
+    second: DrawSpriteSheet0TFilledRotated_34
+  - first:
+      213: -262918436041067012
+    second: DrawSpriteSheet0TFilledRotated_35
+  - first:
+      213: 4009032805330461160
+    second: DrawSpriteSheet0TFilledRotated_36
+  - first:
+      213: -142157652899984403
+    second: DrawSpriteSheet0TFilledRotated_37
+  - first:
+      213: 938657293167313167
+    second: DrawSpriteSheet0TFilledRotated_38
+  - first:
+      213: 5941859023965031508
+    second: DrawSpriteSheet0TFilledRotated_40
+  - first:
+      213: -6229408711191914210
+    second: DrawSpriteSheet0TFilledRotated_41
+  - first:
+      213: -1326165029965108554
+    second: DrawSpriteSheet0TFilledRotated_42
+  - first:
+      213: -336108708928697327
+    second: DrawSpriteSheet0TFilledRotated_43
+  - first:
+      213: 4474367466625900983
+    second: DrawSpriteSheet0TFilledRotated_44
+  - first:
+      213: 509726245370508562
+    second: DrawSpriteSheet0TFilledRotated_45
+  - first:
+      213: -4885987043195875580
+    second: DrawSpriteSheet0TFilledRotated_46
+  - first:
+      213: -1364436764843106388
+    second: DrawSpriteSheet0TFilledRotated_47
+  - first:
+      213: -131244412451036478
+    second: DrawSpriteSheet0TFilledRotated_51
+  - first:
+      213: 488493188632458542
+    second: DrawSpriteSheet0TFilledRotated_59
+  - first:
+      213: 778935049734871281
+    second: DrawSpriteSheet0TFilledRotated_68
+  - first:
+      213: -2509710478941725091
+    second: DrawSpriteSheet0TFilledRotated_69
+  - first:
+      213: 336086081711523584
+    second: DrawSpriteSheet0TFilledRotated_74
+  - first:
+      213: 4422442572976047448
+    second: DrawSpriteSheet0TFilledRotated_75
+  - first:
+      213: 809296382196095865
+    second: DrawSpriteSheet0TFilledRotated_77
+  - first:
+      213: 956065025081547855
+    second: DrawSpriteSheet0TFilledRotated_78
+  - first:
+      213: -8219897251302526543
+    second: DrawSpriteSheet0TFilledRotated_79
+  - first:
+      213: 4746724702355918557
+    second: DrawSpriteSheet0TFilledRotated_80
+  - first:
+      213: 8446445102940343333
+    second: DrawSpriteSheet0TFilledRotated_81
+  - first:
+      213: 7356340640936000156
+    second: DrawSpriteSheet0TFilledRotated_82
+  - first:
+      213: -6705332835548554467
+    second: DrawSpriteSheet0TFilledRotated_83
+  - first:
+      213: 2656782353681795222
+    second: DrawSpriteSheet0TFilledRotated_84
+  - first:
+      213: -6683707060225098698
+    second: DrawSpriteSheet0TFilledRotated_85
+  - first:
+      213: 1927923066234577635
+    second: DrawSpriteSheet0TFilledRotated_86
+  - first:
+      213: 1373340498331987318
+    second: DrawSpriteSheet0TFilledRotated_87
+  - first:
+      213: -5656914470948967963
+    second: DrawSpriteSheet0TFilledRotated_88
+  - first:
+      213: 1110973173094860311
+    second: DrawSpriteSheet0TFilledRotated_89
+  - first:
+      213: 3469836427365570347
+    second: DrawSpriteSheet0TFilledRotated_90
+  - first:
+      213: -6716489148271431694
+    second: DrawSpriteSheet0TFilledRotated_91
+  - first:
+      213: -4899261474788126485
+    second: DrawSpriteSheet0TFilledRotated_92
+  - first:
+      213: -4742361506916577629
+    second: DrawSpriteSheet0TFilledRotated_93
+  - first:
+      213: -1196489581597271995
+    second: DrawSpriteSheet0TFilledRotated_94
+  - first:
+      213: 2458473540996109954
+    second: DrawSpriteSheet0TFilledRotated_95
+  - first:
+      213: -5020280304370057957
+    second: DrawSpriteSheet0TFilledRotated_96
+  - first:
+      213: -4494775214903880545
+    second: DrawSpriteSheet0TFilledRotated_97
+  - first:
+      213: -3244896754243234097
+    second: DrawSpriteSheet0TFilledRotated_98
+  - first:
+      213: 5293465559477856578
+    second: DrawSpriteSheet0TFilledRotated_99
+  - first:
+      213: 3985824640635131955
+    second: DrawSpriteSheet0TFilledRotated_100
+  - first:
+      213: 5091160218614605722
+    second: DrawSpriteSheet0TFilledRotated_101
+  - first:
+      213: -1910982315832933902
+    second: DrawSpriteSheet0TFilledRotated_102
+  - first:
+      213: 1519521183359293889
+    second: DrawSpriteSheet0TFilledRotated_103
+  - first:
+      213: 133398619169792674
+    second: DrawSpriteSheet0TFilledRotated_104
+  - first:
+      213: 2893635331116920871
+    second: DrawSpriteSheet0TFilledRotated_105
+  - first:
+      213: 6585290448349108118
+    second: DrawSpriteSheet0TFilledRotated_106
+  - first:
+      213: -5240312315614212239
+    second: DrawSpriteSheet0TFilledRotated_107
+  - first:
+      213: 4097745815224609527
+    second: DrawSpriteSheet0TFilledRotated_108
+  - first:
+      213: -1375014769753036005
+    second: DrawSpriteSheet0TFilledRotated_109
+  - first:
+      213: 7534746679819421529
+    second: DrawSpriteSheet0TFilledRotated_110
+  - first:
+      213: 7163452512724722890
+    second: DrawSpriteSheet0TFilledRotated_111
+  - first:
+      213: 8898450995855827209
+    second: DrawSpriteSheet0TFilledRotated_112
+  - first:
+      213: -6939423025912474902
+    second: DrawSpriteSheet0TFilledRotated_113
+  - first:
+      213: 580416906941961998
+    second: DrawSpriteSheet0TFilledRotated_114
+  - first:
+      213: 4044413079849072192
+    second: DrawSpriteSheet0TFilledRotated_115
+  - first:
+      213: 1579053081470519556
+    second: DrawSpriteSheet0TFilledRotated_116
+  - first:
+      213: -7373547570771981312
+    second: DrawSpriteSheet0TFilledRotated_117
+  - first:
+      213: 7835731706651237986
+    second: DrawSpriteSheet0TFilledRotated_118
+  - first:
+      213: 7447219018345412425
+    second: DrawSpriteSheet0TFilledRotated_119
+  - first:
+      213: 1301003100189939632
+    second: DrawSpriteSheet0TFilledRotated_120
+  - first:
+      213: -4786643977933760917
+    second: DrawSpriteSheet0TFilledRotated_121
+  - first:
+      213: 6929973765487662976
+    second: DrawSpriteSheet0TFilledRotated_122
+  - first:
+      213: 8053455765503768132
+    second: DrawSpriteSheet0TFilledRotated_123
+  - first:
+      213: 4783839368919101996
+    second: DrawSpriteSheet0TFilledRotated_124
+  - first:
+      213: -1630702504258919848
+    second: DrawSpriteSheet0TFilledRotated_125
+  - first:
+      213: -4150931723675825651
+    second: DrawSpriteSheet0TFilledRotated_126
+  - first:
+      213: -3412696392501644835
+    second: DrawSpriteSheet0TFilledRotated_127
+  - first:
+      213: 5559628363992173864
+    second: DrawSpriteSheet0TFilledRotated_128
+  - first:
+      213: -7940153592871825711
+    second: DrawSpriteSheet0TFilledRotated_129
+  - first:
+      213: 3671080814357587634
+    second: DrawSpriteSheet0TFilledRotated_130
+  - first:
+      213: 2321831003011495923
+    second: DrawSpriteSheet0TFilledRotated_131
+  - first:
+      213: 2634434497769549001
+    second: DrawSpriteSheet0TFilledRotated_132
+  - first:
+      213: -4855426527810578676
+    second: DrawSpriteSheet0TFilledRotated_133
+  - first:
+      213: 6819704641287256439
+    second: DrawSpriteSheet0TFilledRotated_134
+  - first:
+      213: 2850434112685969270
+    second: DrawSpriteSheet0TFilledRotated_135
+  - first:
+      213: 1151989323669909141
+    second: DrawSpriteSheet0TFilledRotated_136
+  - first:
+      213: -5203394319622540427
+    second: DrawSpriteSheet0TFilledRotated_137
+  - first:
+      213: 8885163296092624076
+    second: DrawSpriteSheet0TFilledRotated_138
+  - first:
+      213: -9087623031327410762
+    second: DrawSpriteSheet0TFilledRotated_139
+  - first:
+      213: 1598644701871095825
+    second: DrawSpriteSheet0TFilledRotated_140
+  - first:
+      213: -4371732533898246829
+    second: DrawSpriteSheet0TFilledRotated_141
+  - first:
+      213: -3728758752673937625
+    second: DrawSpriteSheet0TFilledRotated_142
+  - first:
+      213: 2789035899489622371
+    second: DrawSpriteSheet0TFilledRotated_143
+  - first:
+      213: -2878484101396764481
+    second: DrawSpriteSheet0TFilledRotated_144
+  - first:
+      213: -8994029205496991055
+    second: DrawSpriteSheet0TFilledRotated_145
+  - first:
+      213: 5019833306944649216
+    second: DrawSpriteSheet0TFilledRotated_146
+  - first:
+      213: 6286261433109879672
+    second: DrawSpriteSheet0TFilledRotated_147
+  - first:
+      213: 829941960926167534
+    second: DrawSpriteSheet0TFilledRotated_148
+  - first:
+      213: 8122855534148360095
+    second: DrawSpriteSheet0TFilledRotated_149
+  - first:
+      213: -7561894736407208663
+    second: DrawSpriteSheet0TFilledRotated_150
+  - first:
+      213: -9199331211501403713
+    second: DrawSpriteSheet0TFilledRotated_151
+  - first:
+      213: -368562494477042532
+    second: DrawSpriteSheet0TFilledRotated_152
+  - first:
+      213: -6020532412543735081
+    second: DrawSpriteSheet0TFilledRotated_153
+  - first:
+      213: 3542259847436236628
+    second: DrawSpriteSheet0TFilledRotated_154
+  - first:
+      213: 4975831180937847631
+    second: DrawSpriteSheet0TFilledRotated_155
+  - first:
+      213: -9051672737477129604
+    second: DrawSpriteSheet0TFilledRotated_156
+  - first:
+      213: -6630186827105991364
+    second: DrawSpriteSheet0TFilledRotated_157
+  - first:
+      213: -2331071821733542403
+    second: DrawSpriteSheet0TFilledRotated_158
+  - first:
+      213: -2003803638001133193
+    second: DrawSpriteSheet0TFilledRotated_159
+  - first:
+      213: -6640673083182275401
+    second: DrawSpriteSheet0TFilledRotated_160
+  - first:
+      213: -1875994392132422140
+    second: DrawSpriteSheet0TFilledRotated_161
+  - first:
+      213: -2323731250191284288
+    second: DrawSpriteSheet0TFilledRotated_162
+  - first:
+      213: 8994633097739099275
+    second: DrawSpriteSheet0TFilledRotated_163
+  - first:
+      213: 5377229017307050407
+    second: DrawSpriteSheet0TFilledRotated_164
+  - first:
+      213: -5090396080214403831
+    second: DrawSpriteSheet0TFilledRotated_165
+  - first:
+      213: 934522211287574295
+    second: DrawSpriteSheet0TFilledRotated_166
+  - first:
+      213: -8495058396313022929
+    second: DrawSpriteSheet0TFilledRotated_167
+  - first:
+      213: -2800228630599645227
+    second: DrawSpriteSheet0TFilledRotated_168
+  - first:
+      213: 6665408440660629691
+    second: DrawSpriteSheet0TFilledRotated_169
+  - first:
+      213: -5624943040703819006
+    second: DrawSpriteSheet0TFilledRotated_170
+  - first:
+      213: -7534297312403312848
+    second: DrawSpriteSheet0TFilledRotated_171
+  - first:
+      213: 1334339345497637713
+    second: DrawSpriteSheet0TFilledRotated_172
+  - first:
+      213: 2938196357077280771
+    second: DrawSpriteSheet0TFilledRotated_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1751
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d741428fa4dbce00800000000000000
+      internalID: 1066179587072935889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_1
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1646
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c64bec459f9c3a10800000000000000
+      internalID: 1890561407178196677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_2
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 1748
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12915939f546b5870800000000000000
+      internalID: 8672635869092714785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_3
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1671
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff44baba46e4b24f0800000000000000
+      internalID: -852501510172752641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_4
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1663
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3d825414490cfc0800000000000000
+      internalID: -3476615904275934274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_5
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1668
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9aac8ee12739170800000000000000
+      internalID: 8184010424942504379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_6
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1643
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc19d5cef2576f90800000000000000
+      internalID: -6960503444883301174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_7
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1645
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f3aa30995293b20800000000000000
+      internalID: 3114561956425121619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_11
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1660
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a338f818d84900090800000000000000
+      internalID: -8070287196762963142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_12
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1641
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5834580438c13e8d0800000000000000
+      internalID: -2818377591755029627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_13
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1635
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a125a1a279fe0850800000000000000
+      internalID: 6345283195745149349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_14
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1632
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8211fe0d25e82ed30800000000000000
+      internalID: 4459283067394003240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1477
+        width: 57
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4c46c55f57e5820800000000000000
+      internalID: 2908892106005464276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1477
+        width: 61
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8236d40cfc0567760800000000000000
+      internalID: 7455235086373184296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1480
+        width: 41
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a62ee6ff54033d70800000000000000
+      internalID: 9021559288764442272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_20
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1566
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0aee2c27e220d80800000000000000
+      internalID: -8286009293976723208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_21
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1492
+        width: 39
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3975860680e1fd20800000000000000
+      internalID: 3310674067333675325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_22
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1473
+        width: 45
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6944a38a25372d9f0800000000000000
+      internalID: -445166614309354346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_23
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1485
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2457268639f6e3c0800000000000000
+      internalID: -4330499979095878614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_24
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1480
+        width: 66
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b097667c0ebe8a7e0800000000000000
+      internalID: -1753892704210224885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_25
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1482
+        width: 26
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6570302c1dc5633b0800000000000000
+      internalID: -5533133036205177002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_26
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1544
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30c7cd5d909caad0800000000000000
+      internalID: -2689615871889391558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_27
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1536
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056710fae78283880800000000000000
+      internalID: -8631104161288456624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_28
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1487
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e8089199a305720800000000000000
+      internalID: 2832828594848304791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_29
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 1346
+        width: 131
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f5b40a7663eaff0800000000000000
+      internalID: -23021129391448178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_30
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1465
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b87d936bedab2260800000000000000
+      internalID: 7073938866215680184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_31
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1432
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cbf295d626a8160800000000000000
+      internalID: 7028538390252338222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_32
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1452
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f718a13c5eb3400800000000000000
+      internalID: 305090025903718170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_33
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1448
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53159950e98eb7970800000000000000
+      internalID: 8753846066121101621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1458
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd15f37cef88c410800000000000000
+      internalID: 1497605121821187530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_35
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1442
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5fede431de95cf0800000000000000
+      internalID: -262918436041067012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1427
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e12c9e7812f2a730800000000000000
+      internalID: 4009032805330461160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_37
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1429
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb0bcc2e54f60ef0800000000000000
+      internalID: -142157652899984403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_38
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1230
+        width: 125
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01411db5d7c60d00800000000000000
+      internalID: 938657293167313167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_40
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 1340
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c82ec0d49b57250800000000000000
+      internalID: 5941859023965031508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_41
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1077
+        width: 36
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e199ea038c1bc89a0800000000000000
+      internalID: -6229408711191914210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_42
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1084
+        width: 34
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba626b7ee3889de0800000000000000
+      internalID: -1326165029965108554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_43
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1088
+        width: 36
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cc366f8e6e55bf0800000000000000
+      internalID: -336108708928697327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_44
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1089
+        width: 48
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b12dc23185281e30800000000000000
+      internalID: 4474367466625900983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_45
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1088
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215b00cc159e21700800000000000000
+      internalID: 509726245370508562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_46
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1078
+        width: 39
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f0629dbac713cb0800000000000000
+      internalID: -4885987043195875580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_47
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1080
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf1b01ddfb801de0800000000000000
+      internalID: -1364436764843106388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_51
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 982
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2e919f6e9bd2ef0800000000000000
+      internalID: -131244412451036478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_59
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 938
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25b2a787f977c600800000000000000
+      internalID: 488493188632458542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_68
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 944
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f85c8efc455fca00800000000000000
+      internalID: 778935049734871281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_69
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 908
+        width: 93
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e5a9dcd97bb2dd0800000000000000
+      internalID: -2509710478941725091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_74
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 950
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0074e5ab2840aa400800000000000000
+      internalID: 336086081711523584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_75
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 951
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8554dc9c61caf5d30800000000000000
+      internalID: 4422442572976047448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_77
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 943
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b9ec295c23b3b00800000000000000
+      internalID: 809296382196095865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_78
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 911
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c192a2310a44d00800000000000000
+      internalID: 956065025081547855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_79
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 905
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b137e5300f0ded80800000000000000
+      internalID: -8219897251302526543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_80
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 913
+        width: 96
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde0f72b7f0cfd140800000000000000
+      internalID: 4746724702355918557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_81
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 767
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cc897e11dc73570800000000000000
+      internalID: 8446445102940343333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_82
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 768
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a72cd56d8f61660800000000000000
+      internalID: 7356340640936000156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_83
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 832
+        width: 11
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b9d5cff4fd1f2a0800000000000000
+      internalID: -6705332835548554467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_84
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 832
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698cab47979ced420800000000000000
+      internalID: 2656782353681795222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_85
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 709
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c338c27d3be33a0800000000000000
+      internalID: -6683707060225098698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_86
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 757
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2a13d60db51ca10800000000000000
+      internalID: 1927923066234577635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_87
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 773
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d6cbe28e51f0310800000000000000
+      internalID: 1373340498331987318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_88
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 773
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9e152a24a9e71b0800000000000000
+      internalID: -5656914470948967963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_89
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 754
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716ce49f638fa6f00800000000000000
+      internalID: 1110973173094860311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_90
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 754
+        width: 103
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27d5d1c8d5572030800000000000000
+      internalID: 3469836427365570347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_91
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 765
+        width: 116
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffe38384bc3ac2a0800000000000000
+      internalID: -6716489148271431694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_92
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 769
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be05f7565a3520cb0800000000000000
+      internalID: -4899261474788126485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_93
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 728
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae40c7e55fbf2eb0800000000000000
+      internalID: -4742361506916577629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_94
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 725
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54850779017356fe0800000000000000
+      internalID: -1196489581597271995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_95
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 713
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28615c4f8a04e1220800000000000000
+      internalID: 2458473540996109954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_96
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 707
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1df12969a1645ab0800000000000000
+      internalID: -5020280304370057957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_97
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 699
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f949c62a1c95f91c0800000000000000
+      internalID: -4494775214903880545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_98
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 731
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6938e189fc7f2d0800000000000000
+      internalID: -3244896754243234097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_99
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 735
+        width: 105
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249217f51ea267940800000000000000
+      internalID: 5293465559477856578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_100
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 738
+        width: 108
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3385e02946e705730800000000000000
+      internalID: 3985824640635131955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_101
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 746
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97af15ae3f67a640800000000000000
+      internalID: 5091160218614605722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_102
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 731
+        width: 109
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f189b465b3da75e0800000000000000
+      internalID: -1910982315832933902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_103
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 732
+        width: 97
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9dfca277c661510800000000000000
+      internalID: 1519521183359293889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_104
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 737
+        width: 115
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2a42d565de9d100800000000000000
+      internalID: 133398619169792674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_105
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 726
+        width: 59
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7207eb4a002482820800000000000000
+      internalID: 2893635331116920871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_106
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 716
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6971f9cb5c6a36b50800000000000000
+      internalID: 6585290448349108118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_107
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 672
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fc5bb96bba647b0800000000000000
+      internalID: -5240312315614212239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_108
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 681
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa6e40bb1e1ed830800000000000000
+      internalID: 4097745815224609527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_109
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 674
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b64ff1a57faece0800000000000000
+      internalID: -1375014769753036005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_110
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 680
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957c03b3f2cc09860800000000000000
+      internalID: 7534746679819421529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_111
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 689
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac426525b12b96360800000000000000
+      internalID: 7163452512724722890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_112
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 680
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9012533e806ad7b70800000000000000
+      internalID: 8898450995855827209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_113
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 684
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2125a468732bf90800000000000000
+      internalID: -6939423025912474902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_114
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 673
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0718e70a1e0e0800800000000000000
+      internalID: 580416906941961998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_115
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 655
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046f8559444a02830800000000000000
+      internalID: 4044413079849072192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_116
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 671
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4094982596ce9e510800000000000000
+      internalID: 1579053081470519556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_117
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 562
+        width: 137
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c01b51d85eba990800000000000000
+      internalID: -7373547570771981312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_118
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 579
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e5632c87c1ebc60800000000000000
+      internalID: 7835731706651237986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_119
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 588
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947f2097d36d95760800000000000000
+      internalID: 7447219018345412425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_120
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 636
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7d0863d671e0210800000000000000
+      internalID: 1301003100189939632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_121
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 611
+        width: 107
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66defca9ac629db0800000000000000
+      internalID: -4786643977933760917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_122
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 606
+        width: 75
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0871ba25c663c2060800000000000000
+      internalID: 6929973765487662976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_123
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 539
+        width: 111
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4467c25895f93cf60800000000000000
+      internalID: 8053455765503768132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_124
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 591
+        width: 111
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22b3f66f8c936240800000000000000
+      internalID: 4783839368919101996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_125
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 588
+        width: 65
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852ae4356b49e59e0800000000000000
+      internalID: -1630702504258919848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_126
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 585
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a0763079de466c0800000000000000
+      internalID: -4150931723675825651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_127
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 570
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1bea656baa3a0d0800000000000000
+      internalID: -3412696392501644835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_128
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 529
+        width: 100
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d80f67a84c72d40800000000000000
+      internalID: 5559628363992173864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_129
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 449
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de45d24068eec190800000000000000
+      internalID: -7940153592871825711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_130
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 144
+        width: 572
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b62989ec8c42f230800000000000000
+      internalID: 3671080814357587634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_131
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 359
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f73df2eefcc83020800000000000000
+      internalID: 2321831003011495923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_132
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 357
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cca697c7346f8420800000000000000
+      internalID: 2634434497769549001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_133
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 357
+        width: 52
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0797d05c4f0e9cb0800000000000000
+      internalID: -4855426527810578676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_134
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 357
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77972092d3574ae50800000000000000
+      internalID: 6819704641287256439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_135
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 358
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f8d4629b6ce8720800000000000000
+      internalID: 2850434112685969270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_136
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 141
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e2366bf20bcff00800000000000000
+      internalID: 1151989323669909141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_137
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 130
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573fc906f64d9c7b0800000000000000
+      internalID: -5203394319622540427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_138
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 129
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc490f231f07e4b70800000000000000
+      internalID: 8885163296092624076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_139
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 127
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b53215500742e180800000000000000
+      internalID: -9087623031327410762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_140
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 122
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1104619e2e68f2610800000000000000
+      internalID: 1598644701871095825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_141
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 124
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3550aff3c6c7453c0800000000000000
+      internalID: -4371732533898246829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_142
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 122
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727cdb59ba9c04cc0800000000000000
+      internalID: -3728758752673937625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_143
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 150
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36914e6af55a4b620800000000000000
+      internalID: 2789035899489622371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_144
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 119
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8e2ace5f19d08d0800000000000000
+      internalID: -2878484101396764481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_145
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 97
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2fcda071ace2380800000000000000
+      internalID: -8994029205496991055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_146
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 122
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0083c14ebc70aa540800000000000000
+      internalID: 5019833306944649216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_147
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 102
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b90c5a7794d3750800000000000000
+      internalID: 6286261433109879672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_148
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 116
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee10235f0db848b00800000000000000
+      internalID: 829941960926167534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_149
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 115
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f979ab2521e2ab070800000000000000
+      internalID: 8122855534148360095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_150
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 120
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d5d874dc0ce0790800000000000000
+      internalID: -7561894736407208663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_151
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 115
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb18b47d009655080800000000000000
+      internalID: -9199331211501403713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_152
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 19
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cf92f2d5a92eaf0800000000000000
+      internalID: -368562494477042532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_153
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 49
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daea9f3ba5c27ca0800000000000000
+      internalID: -6020532412543735081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_154
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 54
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457f0944092a82130800000000000000
+      internalID: 3542259847436236628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_155
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 60
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43ec129814bd0540800000000000000
+      internalID: 4975831180937847631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_156
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 53
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a86936a9ff16280800000000000000
+      internalID: -9051672737477129604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_157
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 49
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c358fdf7538dcf3a0800000000000000
+      internalID: -6630186827105991364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_158
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 47
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df546a7578e56afd0800000000000000
+      internalID: -2331071821733542403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_159
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 41
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7799e45353f0134e0800000000000000
+      internalID: -2003803638001133193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_160
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 38
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b42c6fb30797d3a0800000000000000
+      internalID: -6640673083182275401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_161
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 38
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40672503a0127f5e0800000000000000
+      internalID: -1875994392132422140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_162
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 52
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7cfd65db270cfd0800000000000000
+      internalID: -2323731250191284288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_163
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 55
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cd5b3952b53dc70800000000000000
+      internalID: 8994633097739099275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_164
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 9
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1728c2d41cf9a40800000000000000
+      internalID: 5377229017307050407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_165
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 0
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90597c03cb74b59b0800000000000000
+      internalID: -5090396080214403831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_166
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 26
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7172286fff618fc00800000000000000
+      internalID: 934522211287574295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_167
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 5
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e0095b56d7b1a80800000000000000
+      internalID: -8495058396313022929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_168
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 40
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7ca3f85e69329d0800000000000000
+      internalID: -2800228630599645227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_169
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 30
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8977479a9408c50800000000000000
+      internalID: 6665408440660629691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_170
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 24
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2031b015b1030f1b0800000000000000
+      internalID: -5624943040703819006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_171
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 30
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f2506438cc07790800000000000000
+      internalID: -7534297312403312848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_172
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 19
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153c63aa096848210800000000000000
+      internalID: 1334339345497637713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawSpriteSheet0TFilledRotated_8
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1645
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30820fff40296c820800000000000000
+      internalID: 2938196357077280771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
