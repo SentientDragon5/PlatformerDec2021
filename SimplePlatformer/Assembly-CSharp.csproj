@@ -75,7 +75,9 @@
     <Compile Include="Assets\Character\Scripts\Interactable\Interactor\Interactor.cs" />
     <Compile Include="Assets\Character\Scripts\PlatformerCapsule.cs" />
     <Compile Include="Assets\Character\Scripts\NonPlayerCharacter.cs" />
+    <Compile Include="Assets\URP\CamMat.cs" />
     <Compile Include="Assets\Character\Scripts\Interactable\Interactable\Interactable.cs" />
+    <Compile Include="Assets\Slicing\Slicer.cs" />
     <Compile Include="Assets\Enviroment\Scripts\Parallax.cs" />
     <Compile Include="Assets\Character\Scripts\Interactable\Dialouge\DialougeReader.cs" />
     <Compile Include="Assets\QPathFinder\Script\Followers\PathFollowerWithNodes.cs" />
@@ -96,6 +98,7 @@
     <Compile Include="Assets\QPathFinder\Script\Followers\PathFollowerToPosition.cs" />
     <Compile Include="Assets\QPathFinder\Sample\Scripts\MoveToNode.cs" />
     <Compile Include="Assets\Character\Scripts\Platformer.cs" />
+    <Compile Include="Assets\Spikes.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\ToonTest\ToonOutlineBigCut.shader" />
@@ -796,6 +799,12 @@
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Tilemap.Extras">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Tilemap.Extras.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Tilemap.Extras.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Tilemap.Extras.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
